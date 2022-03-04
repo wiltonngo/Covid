@@ -1,7 +1,7 @@
 # Covid
-ASK:
+#ASK:
 The Covid-19 impacting many lives during the Pandemic. You want to know how many people affected were affected by this virus and how many deaths occuring during this time. As a Data Analyst you will be analyzing which countries had a highest death count and which the least. So you can follow the countries which had the least deaths help you improve your strategy in figuring how to control your deaths
-Prepare:
+#Prepare:
 The data that we use https://ourworldindata.org/covid-deaths. The data is organized by Country,date and the amount of deaths. No they are no problems with my data.
 
 Process:
@@ -78,7 +78,7 @@ Select *, ( RollingPeopleVaccinated/Population)*100
 Tableau DashBoard:
 https://public.tableau.com/app/profile/wilton.ngo/viz/CovidData_16463443841280/Dashboard2
 
-KEY FINDINGS:
+#KEY FINDINGS:
 The United States and United Kingdom has the highest effected by Covid
 There are 6 millon deaths around the world because of COvid
 Europe has the highest deaths among all the contients
